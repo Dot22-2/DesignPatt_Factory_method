@@ -37,5 +37,3 @@ This repository demonstrates a clean implementation of the **Factory Method** de
 // Admin: Dmytro
 // Guest: Olena
 // Client: Sofia
-admin->render(); // Output: Admin-specific rendering
-guest->render(); // Output: Guest-specific rendering
